@@ -14,7 +14,7 @@ The project is designed with a patient-friendly interface and a separate backend
 
 ### Frontend
 **Vercel:**  
-https://memory-care.vercel.app/
+memory-care-bice.vercel.app
 
 ### Backend API
 **Render:**  
